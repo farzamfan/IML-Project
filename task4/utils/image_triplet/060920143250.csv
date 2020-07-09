@@ -1,0 +1,2 @@
+round_epochs,loss,accuracy,val_loss,val_accuracy,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,kernel_initializer,last_activation,losses,middle_neuron,optimizer
+25,0.5601234251586319,0.7276917,0.5879358594287843,0.69979554,relu,64,0.5,25,64,1,normal,relu,binary_crossentropy,64,Nadam

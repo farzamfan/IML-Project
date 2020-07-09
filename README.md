@@ -1,2 +1,2 @@
 # IML-Project
-Project code for intro to machine learning, ETHZ 2020
+ Project code for intro to machine learning course, ETHZ 2020
